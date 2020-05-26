@@ -1,3 +1,9 @@
+Important note: If you get the message "Sorry, something went wrong. Reload?" when viewing an *.ipynb - try to open that notebook using nbviewer online, here is the link:
+
+ - Open https://nbviewer.jupyter.org/github/loudlemon/Analyzing-A-B-test-results/blob/master/AB_test_results.ipynb
+This site nbviewer works independently of github.
+
+
 ## Analyze A/B Test Results
 
 For this project, I will be working to analyze the results of an A/B test run by an e-commerce website. 
